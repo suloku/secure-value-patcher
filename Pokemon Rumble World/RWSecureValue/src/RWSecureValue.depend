@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1441473465 source:e:\downloads\test\zlibtest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<inttypes.h>
+	"include/zlib.h"
+
+1368446224 e:\downloads\test\zlibtest\include\zlib.h
+	"zconf.h"
+
+1368446224 e:\downloads\test\zlibtest\include\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1441473465 source:e:\downloads\test\rwupdater\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<inttypes.h>
+	"include/zlib.h"
+
+1368446224 e:\downloads\test\rwupdater\include\zlib.h
+	"zconf.h"
+
+1368446224 e:\downloads\test\rwupdater\include\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
